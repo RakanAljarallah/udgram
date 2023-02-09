@@ -25,3 +25,5 @@ You'll need to create a new node server. Open a new terminal within the project 
   
   params: image_url: {{imgae-url}}
   
+  ### elastic bean enviroment dashboard
+<img width="1728" alt="Screenshot 2023-02-09 at 3 17 09 PM" src="https://user-images.githubusercontent.com/92260209/217811722-ed7557c1-1b8c-4a8b-b3c7-f4bb65f71565.png">
